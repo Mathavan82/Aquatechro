@@ -1,0 +1,23 @@
+h1{
+	font-family: arial;
+	color: white;
+	font-size: 30px;
+	background-color:blue;
+
+	
+}
+.cust{
+	float: right;
+}
+img{
+	box-shadow: 0 8px 32px 0 rgba(1, 1, 1, 1.37);
+	border-radius: 10px;
+	
+}
+
+.cust{
+
+
+border-radius: 50px;
+background-attachment: fixed;
+}

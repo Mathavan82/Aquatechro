@@ -1,0 +1,23 @@
+#prodact{
+	background-color:#F596FA;
+	width: 310px;
+	height:450px;
+	border: 10px;
+	border-radius: 30px;
+	padding: 10px;
+	
+}
+
+h1{
+	font-family: arial;
+}
+
+img{
+	border-radius: 30px;
+	
+}
+
+.box{
+	box-shadow: 0 8px 32px 0 rgba(1, 1, 1, 1.37);
+
+}
